@@ -1,0 +1,948 @@
+{
+  "Done": false,
+  "ResultNumber": 0,
+  "Flights": [
+    {
+      "Key": "ECO|SK1264AAR05042035CPH2115,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        0,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1264AAR05042035CPH2115,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        0,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1240AAR05040635CPH0715,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        3,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1240AAR05040635CPH0715,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        3,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1246AAR05041050CPH1130,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        4,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1246AAR05041050CPH1130,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        4,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1248AAR05041335CPH1415,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        5,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1248AAR05041335CPH1415,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        5,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1260AAR05041820CPH1900,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        6,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1260AAR05041820CPH1900,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        6,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1264AAR05042035CPH2115,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        0,
+        7
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1240AAR05040635CPH0715,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        3,
+        7
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1246AAR05041050CPH1130,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        4,
+        7
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1248AAR05041335CPH1415,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        5,
+        7
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1260AAR05041820CPH1900,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        6,
+        7
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1244AAR05040840CPH0920,SK1243CPH05050735AAR0815",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        8,
+        1
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1244AAR05040840CPH0920,SK1247CPH05051230AAR1310",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        8,
+        2
+      ],
+      "TicketClass": "ECO"
+    },
+    {
+      "Key": "ECO|SK1244AAR05040840CPH0920,SK1257CPH05051445AAR1525",
+      "MaxStops": 0,
+      "SegmentIndexes": [
+        8,
+        7
+      ],
+      "TicketClass": "ECO"
+    }
+  ],
+  "Legs": [
+    {
+      "Arrival": "2016-05-04T21:15:00",
+      "Departure": "2016-05-04T20:35:00",
+      "Duration": 40,
+      "FlightNumber": 1264,
+      "Key": "SK1264AAR05042035CPH2115",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    },
+    {
+      "Arrival": "2016-05-05T08:15:00",
+      "Departure": "2016-05-05T07:35:00",
+      "Duration": 40,
+      "FlightNumber": 1243,
+      "Key": "SK1243CPH05050735AAR0815",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "CPH",
+      "OriginDisplayName": "Copenhagen (CPH), Denmark",
+      "DestinationIata": "AAR",
+      "DestinationDisplayName": "Aarhus (AAR), Denmark"
+    },
+    {
+      "Arrival": "2016-05-05T13:10:00",
+      "Departure": "2016-05-05T12:30:00",
+      "Duration": 40,
+      "FlightNumber": 1247,
+      "Key": "SK1247CPH05051230AAR1310",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "CPH",
+      "OriginDisplayName": "Copenhagen (CPH), Denmark",
+      "DestinationIata": "AAR",
+      "DestinationDisplayName": "Aarhus (AAR), Denmark"
+    },
+    {
+      "Arrival": "2016-05-04T07:15:00",
+      "Departure": "2016-05-04T06:35:00",
+      "Duration": 40,
+      "FlightNumber": 1240,
+      "Key": "SK1240AAR05040635CPH0715",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    },
+    {
+      "Arrival": "2016-05-04T11:30:00",
+      "Departure": "2016-05-04T10:50:00",
+      "Duration": 40,
+      "FlightNumber": 1246,
+      "Key": "SK1246AAR05041050CPH1130",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    },
+    {
+      "Arrival": "2016-05-04T14:15:00",
+      "Departure": "2016-05-04T13:35:00",
+      "Duration": 40,
+      "FlightNumber": 1248,
+      "Key": "SK1248AAR05041335CPH1415",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    },
+    {
+      "Arrival": "2016-05-04T19:00:00",
+      "Departure": "2016-05-04T18:20:00",
+      "Duration": 40,
+      "FlightNumber": 1260,
+      "Key": "SK1260AAR05041820CPH1900",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    },
+    {
+      "Arrival": "2016-05-05T15:25:00",
+      "Departure": "2016-05-05T14:45:00",
+      "Duration": 40,
+      "FlightNumber": 1257,
+      "Key": "SK1257CPH05051445AAR1525",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "CPH",
+      "OriginDisplayName": "Copenhagen (CPH), Denmark",
+      "DestinationIata": "AAR",
+      "DestinationDisplayName": "Aarhus (AAR), Denmark"
+    },
+    {
+      "Arrival": "2016-05-04T09:20:00",
+      "Departure": "2016-05-04T08:40:00",
+      "Duration": 40,
+      "FlightNumber": 1244,
+      "Key": "SK1244AAR05040840CPH0920",
+      "StopOvers": 0,
+      "AirlineIcao": "SAS",
+      "AirlineName": "SAS Scandinavian Airlines",
+      "OriginIata": "AAR",
+      "OriginDisplayName": "Aarhus (AAR), Denmark",
+      "DestinationIata": "CPH",
+      "DestinationDisplayName": "Copenhagen (CPH), Denmark"
+    }
+  ],
+  "Offers": [
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 0,
+      "Score": 175.21,
+      "TicketClass": "ECO",
+      "Price": 20130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 1,
+      "Score": 175.21,
+      "TicketClass": "ECO",
+      "Price": 20130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 2,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 3,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 4,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 5,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 6,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 7,
+      "Score": 185.28,
+      "TicketClass": "ECO",
+      "Price": 21630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 8,
+      "Score": 192.0,
+      "TicketClass": "ECO",
+      "Price": 22630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 9,
+      "Score": 192.0,
+      "TicketClass": "ECO",
+      "Price": 22630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 10,
+      "Score": 202.08,
+      "TicketClass": "ECO",
+      "Price": 24130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 11,
+      "Score": 212.16,
+      "TicketClass": "ECO",
+      "Price": 25630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 12,
+      "Score": 212.16,
+      "TicketClass": "ECO",
+      "Price": 25630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 13,
+      "Score": 212.16,
+      "TicketClass": "ECO",
+      "Price": 25630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 14,
+      "Score": 218.87,
+      "TicketClass": "ECO",
+      "Price": 26630000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 15,
+      "Score": 222.23,
+      "TicketClass": "ECO",
+      "Price": 27130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 16,
+      "Score": 222.23,
+      "TicketClass": "ECO",
+      "Price": 27130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 17,
+      "Score": 249.1,
+      "TicketClass": "ECO",
+      "Price": 31130000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 0,
+      "Score": 180.82,
+      "TicketClass": "ECO",
+      "Price": 3226000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 1,
+      "Score": 180.82,
+      "TicketClass": "ECO",
+      "Price": 3226000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 2,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 4,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 6,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 3,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 5,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 7,
+      "Score": 190.86,
+      "TicketClass": "ECO",
+      "Price": 3456000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 8,
+      "Score": 197.41,
+      "TicketClass": "ECO",
+      "Price": 3606000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 9,
+      "Score": 197.41,
+      "TicketClass": "ECO",
+      "Price": 3606000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 10,
+      "Score": 207.45,
+      "TicketClass": "ECO",
+      "Price": 3836000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 11,
+      "Score": 217.5,
+      "TicketClass": "ECO",
+      "Price": 4066000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 12,
+      "Score": 217.5,
+      "TicketClass": "ECO",
+      "Price": 4066000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 13,
+      "Score": 217.5,
+      "TicketClass": "ECO",
+      "Price": 4066000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 14,
+      "Score": 224.48,
+      "TicketClass": "ECO",
+      "Price": 4226000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 15,
+      "Score": 227.97,
+      "TicketClass": "ECO",
+      "Price": 4306000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 16,
+      "Score": 227.97,
+      "TicketClass": "ECO",
+      "Price": 4306000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 17,
+      "Score": 254.6,
+      "TicketClass": "ECO",
+      "Price": 4916000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 0,
+      "Score": 175.14,
+      "TicketClass": "ECO",
+      "Price": 20120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 1,
+      "Score": 175.14,
+      "TicketClass": "ECO",
+      "Price": 20120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 2,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 3,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 4,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 5,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 6,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 7,
+      "Score": 185.22,
+      "TicketClass": "ECO",
+      "Price": 21620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 8,
+      "Score": 191.94,
+      "TicketClass": "ECO",
+      "Price": 22620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 9,
+      "Score": 191.94,
+      "TicketClass": "ECO",
+      "Price": 22620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 10,
+      "Score": 202.01,
+      "TicketClass": "ECO",
+      "Price": 24120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 11,
+      "Score": 212.08,
+      "TicketClass": "ECO",
+      "Price": 25620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 12,
+      "Score": 212.08,
+      "TicketClass": "ECO",
+      "Price": 25620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 13,
+      "Score": 212.08,
+      "TicketClass": "ECO",
+      "Price": 25620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 14,
+      "Score": 218.8,
+      "TicketClass": "ECO",
+      "Price": 26620000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 15,
+      "Score": 222.16,
+      "TicketClass": "ECO",
+      "Price": 27120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 16,
+      "Score": 222.16,
+      "TicketClass": "ECO",
+      "Price": 27120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 17,
+      "Score": 249.03,
+      "TicketClass": "ECO",
+      "Price": 31120000.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 0,
+      "Score": 175.88,
+      "TicketClass": "ECO",
+      "Price": 20229400.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 1,
+      "Score": 175.88,
+      "TicketClass": "ECO",
+      "Price": 20229400.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 7,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 5,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 4,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 2,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 3,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 6,
+      "Score": 185.74,
+      "TicketClass": "ECO",
+      "Price": 21696900.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 8,
+      "Score": 192.64,
+      "TicketClass": "ECO",
+      "Price": 22725300.000000004
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 9,
+      "Score": 192.64,
+      "TicketClass": "ECO",
+      "Price": 22725300.000000004
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 10,
+      "Score": 202.5,
+      "TicketClass": "ECO",
+      "Price": 24192700.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 11,
+      "Score": 212.36,
+      "TicketClass": "ECO",
+      "Price": 25660200.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 12,
+      "Score": 212.36,
+      "TicketClass": "ECO",
+      "Price": 25660200.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 13,
+      "Score": 212.36,
+      "TicketClass": "ECO",
+      "Price": 25660200.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 14,
+      "Score": 219.26,
+      "TicketClass": "ECO",
+      "Price": 26688600.0
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 16,
+      "Score": 222.22,
+      "TicketClass": "ECO",
+      "Price": 27127600.000000004
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 15,
+      "Score": 222.22,
+      "TicketClass": "ECO",
+      "Price": 27127600.000000004
+    },
+    {
+      "Currency": "HUF",
+      "Deeplink": "http://www.momondo.com",
+      "FlightIndex": 17,
+      "Score": 248.84,
+      "TicketClass": "ECO",
+      "Price": 31090900.0
+    }
+  ],
+  "Segments": [
+    {
+      "Duration": 40,
+      "Key": "SK1264AAR05042035CPH2115",
+      "LegIndexes": [
+        0
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1243CPH05050735AAR0815",
+      "LegIndexes": [
+        1
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1247CPH05051230AAR1310",
+      "LegIndexes": [
+        2
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1240AAR05040635CPH0715",
+      "LegIndexes": [
+        3
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1246AAR05041050CPH1130",
+      "LegIndexes": [
+        4
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1248AAR05041335CPH1415",
+      "LegIndexes": [
+        5
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1260AAR05041820CPH1900",
+      "LegIndexes": [
+        6
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1257CPH05051445AAR1525",
+      "LegIndexes": [
+        7
+      ],
+      "Stops": 0
+    },
+    {
+      "Duration": 40,
+      "Key": "SK1244AAR05040840CPH0920",
+      "LegIndexes": [
+        8
+      ],
+      "Stops": 0
+    }
+  ]
+}
